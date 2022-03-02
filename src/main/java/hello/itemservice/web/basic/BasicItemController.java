@@ -69,7 +69,7 @@ public class BasicItemController {
      * 생략 시 model에 저장되는 name은 클래스명 첫글자만 소문자로 등록 Item -> item
      */
     //@PostMapping("/add")
-    public String addItemV3(@ModelAttribute Item item, Model model) {
+    public String addItemV3(@ModelAttribute Item item) {
 
         itemRepository.save(item);
 
@@ -80,7 +80,7 @@ public class BasicItemController {
      * @ModelAttribute 자체 생략 가능
      */
     @PostMapping("/add")
-    public String addItemV4(Item item, Model model) {
+    public String addItemV4(Item item) {
 
         itemRepository.save(item);
 
