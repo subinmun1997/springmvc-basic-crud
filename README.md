@@ -69,7 +69,7 @@
 
 5. 요구사항 추가 폼
 
-![image](![image](https://user-images.githubusercontent.com/52366841/157388032-ea774b07-49da-40e1-8900-02ac0e4d84e6.png))
+![image](https://user-images.githubusercontent.com/52366841/157388217-c5fa282e-57d4-4b74-bcdd-cb8212ca99a6.png)
 
  
 
