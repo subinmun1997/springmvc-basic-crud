@@ -72,11 +72,25 @@
 ![image](https://user-images.githubusercontent.com/52366841/157388217-c5fa282e-57d4-4b74-bcdd-cb8212ca99a6.png)
 
 
-## 최종 폼
+## Refactoring v1 - 결과물
 
-![image](https://user-images.githubusercontent.com/52366841/157586268-c08bace9-b2ca-4a9c-973c-487127f1b5ee.png)
+1. 상품 목록
+
+![image](https://user-images.githubusercontent.com/52366841/157588809-be02026f-eb12-483d-bc3d-ad2547615600.png)
+
+2. 상품 상세
+
+![image](https://user-images.githubusercontent.com/52366841/157588903-293a82ff-3b4e-443e-b4cb-339e544ec5e9.png)
 
 
+3. 상품 등록 폼
+
+![image](https://user-images.githubusercontent.com/52366841/157588873-c173c418-e025-47f9-ae96-3e91df95697c.png)
+
+
+4. 상품 수정 폼
+
+![image](https://user-images.githubusercontent.com/52366841/157588931-ada68502-4c78-477f-a9a4-cc33a098b2e4.png)
 
  
 
