@@ -99,4 +99,21 @@
 
 #### 요구사항 추가
 
+7. 메시지 관리
+  * 다양한 메시지를 한 곳에서 관리하도록 하는 기능 추가
+
+  Ex) ![image](https://user-images.githubusercontent.com/52366841/157599298-d35c0059-a605-47b5-8400-9dc2a49908ba.png)
+      ![image](https://user-images.githubusercontent.com/52366841/157599365-09d6ee22-b31e-483a-b967-6869a5e26f9f.png)
+      ![image](https://user-images.githubusercontent.com/52366841/157599395-888ecef7-34bf-4040-a7f1-9511cab8ad7d.png)
+
+
+8. 국제화 (Internationalization)
+  * 메시지 파일을 각 나라별로 별도로 관리해서 서비스를 국제화 하는 기능 추가
+  
+  Ex) messages_en.propertis
+      item=Item
+      item.id=Item ID
+      item.itemName=Item Name
+      item.price=price 
+      item.quantity=quantit
 
