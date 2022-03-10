@@ -92,6 +92,11 @@
 
 ![image](https://user-images.githubusercontent.com/52366841/157588931-ada68502-4c78-477f-a9a4-cc33a098b2e4.png)
 
- 
+
+# ✨ Refactoring
+
+### v2 - Message
+
+#### 요구사항 추가
 
 
