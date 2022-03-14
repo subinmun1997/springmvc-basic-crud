@@ -104,4 +104,25 @@
 
 8. 국제화 (Internationalization)
   * 메시지 파일을 각 나라별로 별도로 관리해서 서비스를 국제화 하는 기능 추가
-  
+
+
+## Refactoring v1 - 결과물
+
+1. 상품 목록
+
+![image](https://user-images.githubusercontent.com/52366841/158136174-1f075f8a-a7ec-4dca-acb7-720ddc36b238.png)
+
+2. 상품 상세
+
+![image](https://user-images.githubusercontent.com/52366841/158136090-f5322cfc-cb79-4493-b5db-de96dd849e0c.png)
+
+
+3. 상품 등록 폼
+
+![image](https://user-images.githubusercontent.com/52366841/158136234-9795eb41-80fd-4d64-8169-161aa20c77cb.png)
+
+
+4. 상품 수정 폼
+
+![image](https://user-images.githubusercontent.com/52366841/158136301-4747d1a8-aaf4-4b92-ad6b-131c6673f35f.png)
+
