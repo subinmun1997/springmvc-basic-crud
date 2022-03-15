@@ -126,3 +126,36 @@
 
 ![image](https://user-images.githubusercontent.com/52366841/158136301-4747d1a8-aaf4-4b92-ad6b-131c6673f35f.png)
 
+
+# ✨ Refactoring
+
+### v3 - Validation
+
+#### 요구사항 추가
+
+9. 검증 로직 추가
+  * 타입 검증
+   * 가격, 수량에 문자가 들어가면 검증 오류 처리
+  * 필드 검증
+   * 상품명: 필수, 공백X
+   * 가격: 1000원 이상, 1백만원 이하
+   * 수량: 최대 9999개
+  * 특정 필드의 범위를 넘어서는 검증
+   * 가격 x 수량의 합은 10,000원 이상
+
+
+# 서비스 제공 흐름
+![image](https://user-images.githubusercontent.com/52366841/158320006-13399650-d558-450b-9379-86205a2cb9fc.png)
+
+
+## Refactoring v3 - 결과물
+
+1. 상품 등록
+
+![image](https://user-images.githubusercontent.com/52366841/158320280-7a8d1837-1831-46e1-9560-eed8d4155245.png)
+
+![image](https://user-images.githubusercontent.com/52366841/158320314-9f807476-3b8c-4a4a-bd8a-b1ed1d0ee078.png)
+
+
+
+
